@@ -4,7 +4,7 @@ diamonds(machine learning).
 https://github.com/Paulcorreafl/Project_m3/tree/main/data.
 - Here we find the documents in csv, with which we are going to work from the start.
 ## 2 In the notebook folder is where we will do our analysis.
-https://github.com/Paulcorreafl/Project_m3/tree/main/notebook.
+https://github.com/Paulcorreafl/Project_m3/tree/main/modelo
 - We extract the data from the csv.
 - We proceed to do an EDA to have greater control of our data, for this we analyze them, so we can choose the best strategy.
 - We proceed to test the model with 20% of the train csv, where all the information is found, and then test it with the test csv, which is the one we will upload to Kaggle.
