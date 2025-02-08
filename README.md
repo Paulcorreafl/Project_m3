@@ -12,4 +12,6 @@ https://github.com/Paulcorreafl/Project_m3/tree/main/notebook.
 - After several tests we have decided to eliminate the columns X,Y,Z, these had a strong relationship with Carter, so they basically gave us the same information.
 - Finally we generate a new file.
 ## we upload the file to kaggle.
+https://github.com/Paulcorreafl/Project_m3/tree/main/csv_project
 - Once analyzed, we create a CSV file which only generates the ID and price columns. This is what we will upload to Kaggle.
+https://www.kaggle.com/competitions/ih-datamadpt-0924-project-m-3/leaderboard
